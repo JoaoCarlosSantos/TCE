@@ -1,7 +1,7 @@
 # TCE
 Análise dos dados do Tribunal de Contas do Estado de SP
 
-Neste iniciativa foi utilizado como fonte dos dados o portal da transparência do Tribunal de contas do estado de SP. 
+Nesta iniciativa foi utilizado como fonte dos dados o portal da transparência do Tribunal de contas do estado de SP. 
 https://transparencia.tce.sp.gov.br/
 
 
