@@ -1,2 +1,2 @@
 # TCE
-Análise dos dado do Tribunal de Contas do estado de SP
+Análise dos dados do Tribunal de Contas do Estado de SP
